@@ -1,0 +1,86 @@
+.bg-container{
+    background-color: ;
+    min-height: 100vh;
+    
+}
+
+.log-title{
+    font-family: "sans-serif";
+    font-size: 30px;
+    font-weight: bold;
+    color: #000080;
+}
+
+.nav-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.caurosel-img{
+    height: 80vh;
+    width: 100vw;
+}
+
+.slide-one-heading{
+    font-family: "Robot";
+    font-size: 26px;
+    font-weight: 600;
+    color: black;
+    font-style: italic;
+}
+
+.slide-one-span{
+    color: 	#ff0000;
+}
+
+.slide-one-para{
+    font-family: 'Times New Roman';
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.slide-two-head{
+    font-family: "Robot";
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    font-style: italic;
+}
+
+.slide-two-para{
+    font-family: 'Times New Roman';
+    color: 			#483D8B;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.slide-three-heading{
+    font-family: "Robot";
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.slide-three-para{
+    font-family: 'Times New Roman';
+    color: 	#ffffff;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.tourism-heading{
+    font-family: "Robot";
+    font-size: 30px;
+    font-weight: 600;
+    color: 	#FF1493;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.tourism-container{
+   
+}
+

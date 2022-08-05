@@ -1,0 +1,66 @@
+
+body{
+    background: #000000;
+    display       : grid;
+    place-content : center;
+    min-height    : 100vh;
+}
+
+.back-ground{
+    height: 200px;
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 20px;
+    background-color: transparent;
+}
+h1{
+    font: "robot";
+    font-size: 24px;
+    font-weight: 600;
+    color: azure;
+}
+
+.form{
+    margin-top: 5px;
+    height: 30px;
+    width: 200px;
+    border-color: 	#FFFF00;
+    border-width: 1px;
+    background: 000000;
+    border-radius: 5px;
+    font: "robot";
+    color: cadetblue;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+.user-name{
+    font: 'robot';
+    font-size: medium;
+    color: aliceblue;
+}
+.password{
+    font: 'robot';
+    font-size: medium;
+    color: aliceblue;
+    padding-top: 5px;
+}
+.button{
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    margin: 10px;
+}
+.btn-align{
+    margin: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+.para{
+    font: "robot";
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: 300;
+}
